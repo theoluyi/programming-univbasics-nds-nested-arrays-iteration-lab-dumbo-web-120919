@@ -33,6 +33,7 @@ def find_greater_pair(src)
     else new_array.push(src[i][1])
     i+=1
   end 
+  end
   end 
   
   new_array
