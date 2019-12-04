@@ -32,7 +32,6 @@ def find_greater_pair(src)
       new_array.push(src[i][0])
     else new_array.push(src[i][1])
     i+=1
-  end 
   end
   end 
   
