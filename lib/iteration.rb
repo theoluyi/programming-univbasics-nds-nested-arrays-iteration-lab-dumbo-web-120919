@@ -55,6 +55,7 @@ def total_even_pairs(src)
     if src[i][1]%2 == 0 
       total += src[i][1]
     end 
+  i += 1 
   end
   
   total
