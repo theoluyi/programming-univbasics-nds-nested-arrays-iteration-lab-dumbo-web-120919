@@ -31,8 +31,8 @@ def find_greater_pair(src)
     if src[i][0]>src[i][1]
       new_array.push(src[i][0])
     else new_array.push(src[i][1])
+    end
     i+=1
-  end
   end 
   
   new_array
